@@ -1,8 +1,4 @@
-# Getting Started with Create React App       
-
-Hosted link    [Click here](https://cart-calculator-rosy.vercel.app/)
-
-
+# Getting Started with Create React App      
 
 ## Available Scripts
 
